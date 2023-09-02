@@ -2,4 +2,4 @@
 Current status: learning the abstractions.
 # Potential Languages to do this in: C++, Go, Python, Haskell (why?)
 
-# for serving on the frontend: model generated videos based on category? 
+# for serving on the frontend: model generated videos based on category? (Transformers Agents or similar)
